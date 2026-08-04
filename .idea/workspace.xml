@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="508cc854-646b-430b-b9be-14d06ea59ba2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/biblioteca-de-estrutura-de-dados.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturas/lista/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/lista/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturas/lista/ListaDupla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/lista/ListaDupla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturas/lista/ListaSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/lista/ListaSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas/arvore/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/arvore/AVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas/arvore/BT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/arvore/BT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas/arvore/BTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/arvore/BTNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas/arvore/BTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturas/arvore/BTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,29 +19,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3HQeqtxxRDxW6l4GS3R5AGZqZnN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/alisonsena/IdeaProjects/biblioteca-de-estrutura-de-dados/src/out",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alisonsena/IdeaProjects/biblioteca-de-estrutura-de-dados/src/out&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.Main" />
