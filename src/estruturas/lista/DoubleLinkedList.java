@@ -13,6 +13,6 @@ public interface DoubleLinkedList <T> {
 
     void insertFirst(T elements);
 
-    void removeFirst(T elements);
+    void removeFirst();
     void removeLast();
 }

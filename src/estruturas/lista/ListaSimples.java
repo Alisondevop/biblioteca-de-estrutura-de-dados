@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * Lista encadeada simples genérica.
  */
-public class ListaSimples<T> implements LinkedList<T> {
+public class ListaSimples<T> implements estruturas.lista.LinkedList<T> {
     private static class No<E> {
         private E valor;
         private No<E> proximo;

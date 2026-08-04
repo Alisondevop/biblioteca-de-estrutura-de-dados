@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/biblioteca-de-estrutura-de-dados.iml" filepath="$PROJECT_DIR$/biblioteca-de-estrutura-de-dados.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/biblioteca-de-estruturas-de-dados.iml" filepath="$PROJECT_DIR$/biblioteca-de-estruturas-de-dados.iml" />
->>>>>>> bce2f199d0e4356194a7f5d6988cd26b5023ee07
     </modules>
   </component>
 </project>
